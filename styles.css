@@ -1,0 +1,99 @@
+body{
+    margin: center;
+    background-color: black; 
+    font-family: 'Roboto', sans-serif;
+}
+.post{
+ 
+    background-color: white;
+    justify-content: space-between;
+ 
+  
+}
+.title-izq{
+    display: flex;
+    align-items: center;
+   
+}
+
+.post-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.post-title i {
+
+    font-size: 40px;
+  
+    
+
+}
+.post-userlogo{
+
+  
+
+}
+
+.options{
+     
+    
+}
+
+.post-name{
+
+    margin: 5%;
+}
+.post-icons{
+  
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+.iconos-especiales{
+    display: flex;
+
+}
+.post-icons i{
+
+    font-size: 20px;
+}
+.like{
+   
+   
+    margin: 0 10px;
+    
+}
+.coment{
+    
+    margin: 0 10px;
+  
+}
+.share{
+    
+    margin: 0 10px;
+    
+}
+.save{
+    display: flex;
+  
+}
+.post-image img{
+
+   width: 100%;
+  
+
+}
+
+.post-description{
+    display: flex;
+    text-align: justify;
+    width: 100%;
+}
+.post-interaction{
+
+
+
+}
